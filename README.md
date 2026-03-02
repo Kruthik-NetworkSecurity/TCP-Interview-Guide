@@ -336,7 +336,7 @@ Large packets fail     → MTU Black Hole — enable MSS clamping
 
 ## About
 
-Built by **Kruthik K V** — Network Security Engineer with 3.6+ years of enterprise TAC experience at Citrix (CSG) and HCL Tech.
+Built by **Kruthik K V** — Network Security Engineer with 3.7+ years of enterprise TAC experience at Citrix (CSG) and HCL Tech.
 
 📧 kruthik.39t@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/kruthik-k-v-3115ba21a)
